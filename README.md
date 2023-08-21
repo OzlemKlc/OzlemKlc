@@ -11,7 +11,7 @@
 
 
 ## **Languages and Tools:**
-![HTML Logo](./img/html.png)
+ <img src="./img/html.png" alt="HTML Logo" width="100" style="margin-right: 20px;">
 
 
 
