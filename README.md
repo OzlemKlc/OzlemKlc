@@ -12,6 +12,21 @@
 
 ## **Languages and Tools:**
  <img src="./img/html.png" alt="HTML Logo" width="100" style="margin-right: 20px;">
+ <img src="./img/css.png" alt="CSS Logo" width="100" style="margin-right: 20px;">
+ <img src="./img/js.png" alt="Js Logo" width="100" style="margin-right: 20px;">
+ <img src="./img/c.svg" alt="C Logo" width="100" style="margin-right: 20px;">
+ <img src="./img/c#.png" alt="C# Logo" width="100" style="margin-right: 20px;">
+ <img src="./img/python.png" alt="Python Logo" width="100" style="margin-right: 20px;">
+ <img src="./img/java.png" alt="Java Logo" width="100" style="margin-right: 20px;">
+ <img src="./img/mysql.png" alt="Mysql Logo" width="100" style="margin-right: 20px;">
+ <img src="./img/postgresql.png" alt="Postgresql Logo" width="100" style="margin-right: 20px;">
+ <img src="./img/mssql.png" alt="Msssql Logo" width="100" style="margin-right: 20px;">
+ <img src="./img/vscode.png" alt="Vscode Logo" width="100" style="margin-right: 20px;">
+ <img src="./img/vs.png" alt="Vs Logo" width="100" style="margin-right: 20px;">
+ <img src="./img/eclipse.png" alt="Eclipse Logo" width="100" style="margin-right: 20px;">
+ <img src="./img/postman.png" alt="Postman Logo" width="100" style="margin-right: 20px;">
+ <img src="./img/jupyter.png" alt="Jupyter Logo" width="100" style="margin-right: 20px;">
+ 
 
 
 
