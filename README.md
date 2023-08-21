@@ -16,7 +16,7 @@
  <img src="./img/css.png" alt="CSS Logo" width="80" style="margin-right: 30px;">
  <img src="./img/js.png" alt="Js Logo" width="69" style="margin-right: 30px;">
  <img src="./img/c.svg" alt="C Logo" width="75" style="margin-right: 30px;">
- <img src="./img/csharp.png" alt="C# Logo" width="75" style="margin-right: 30px;">
+ <img src="./img/csharp.png" alt="C# Logo" width="82" style="margin-right: 30px;">
  <img src="./img/net.png" alt="Asp.net Logo" width="110" style="margin-right: 30px;">
  <img src="./img/python.png" alt="Python Logo" width="75" style="margin-right: 30px;">
  <img src="./img/java.png" alt="Java Logo" width="140" style="margin-right: 30px;">
