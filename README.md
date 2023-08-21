@@ -1,5 +1,6 @@
-### Hi,I'm Özlem KILIÇ. 👋
-A forth-year Computer Engineering student at Yaşar University.
+<!-- ### Hi,I'm Özlem KILIÇ. 👋 -->
+<h2 align="center">Hi, I'm Özlem KILIÇ. 👋</h2>
+<h3 align="center"><strong>A forth-year Computer Engineering student at Yaşar University.</strong></h3>
 <!--
 **OzlemKlc/OzlemKlc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
