@@ -33,7 +33,7 @@
 
 ## **Connect To Me**
 
-[<img src="./img/linkedin1.png" alt="LinkedIn Logo" width="30">](https://www.linkedin.com/in/özlem-kılıç)
+[<img src="./img/linkedin1.png" alt="LinkedIn Logo" width="50">](https://www.linkedin.com/in/özlem-kılıç)
 
 
 
