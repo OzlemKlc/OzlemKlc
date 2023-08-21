@@ -23,7 +23,7 @@
  <img src="./img/postgresql.png" alt="Postgresql Logo" width="75" style="margin-right: 28px;">
  <img src="./img/mssql.png" alt="Msssql Logo" width="90" style="margin-right: 28px;">
  <img src="./img/vscode.png" alt="Vscode Logo" width="60" style="margin-right: 28px;">
- <img src="./img/vs.png" alt="Vs Logo" width="75" style="margin-right: 28px;">
+ <img src="./img/vs.png" alt="Vs Logo" width="90" style="margin-right: 28px;">
  <img src="./img/eclipse.png" alt="Eclipse Logo" width="75" style="margin-right: 28px;">
  <img src="./img/postman.png" alt="Postman Logo" width="75" style="margin-right: 28px;">
  <img src="./img/jupyter.png" alt="Jupyter Logo" width="75" style="margin-right: 28px;">
