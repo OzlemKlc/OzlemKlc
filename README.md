@@ -11,6 +11,7 @@
 
 
 ## **Languages and Tools:**
+<p align="center">
  <img src="./img/html.png" alt="HTML Logo" width="100" style="margin-right: 20px;">
  <img src="./img/css.png" alt="CSS Logo" width="100" style="margin-right: 20px;">
  <img src="./img/js.png" alt="Js Logo" width="100" style="margin-right: 20px;">
@@ -26,7 +27,7 @@
  <img src="./img/eclipse.png" alt="Eclipse Logo" width="100" style="margin-right: 20px;">
  <img src="./img/postman.png" alt="Postman Logo" width="100" style="margin-right: 20px;">
  <img src="./img/jupyter.png" alt="Jupyter Logo" width="100" style="margin-right: 20px;">
- 
+ </p>
 
 
 
