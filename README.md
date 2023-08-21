@@ -13,8 +13,8 @@
 ## **Languages and Tools:**
 <p align="">
  <img src="./img/html.png" alt="HTML Logo" width="85" style="margin-right: 28px;">
- <img src="./img/css.png" alt="CSS Logo" width="75" style="margin-right: 28px;">
- <img src="./img/js.png" alt="Js Logo" width="60" style="margin-right: 28px;">
+ <img src="./img/css.png" alt="CSS Logo" width="80" style="margin-right: 28px;">
+ <img src="./img/js.png" alt="Js Logo" width="69" style="margin-right: 28px;">
  <img src="./img/c.svg" alt="C Logo" width="75" style="margin-right: 28px;">
  <img src="./img/c#.png" alt="C# Logo" width="75" style="margin-right: 28px;">
  <img src="./img/python.png" alt="Python Logo" width="75" style="margin-right: 28px;">
