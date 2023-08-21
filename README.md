@@ -11,6 +11,9 @@
 
 
 ## **Languages and Tools:**
+![HTML Logo](./img/html.png)
+
+
 
 
 
