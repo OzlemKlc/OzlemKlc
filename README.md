@@ -33,8 +33,8 @@
 
 ## **Connect To Me**
 
-[<img src="./img/linkedin_3536569.png" alt="LinkedIn Logo" width="50" style="margin-right: 30px;>](https://www.linkedin.com/in/özlem-kılıç)
-[<img src="./img/medium.png" alt="Medium Logo" width="50">](https://medium.com/@ozlemozlem766)
+[<img src="./img/linkedin_3536569.png" alt="LinkedIn Logo" width="50">](https://www.linkedin.com/in/özlem-kılıç) <br>
+[<img src="./img/medium.png" alt="Medium Logo" width="65">](https://medium.com/@ozlemozlem766)
 
 
 <!--
