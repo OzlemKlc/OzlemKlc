@@ -22,7 +22,8 @@
  <img src="./img/mysql.png" alt="Mysql Logo" width="120" style="margin-right: 30px;">
  <img src="./img/postgresql.png" alt="Postgresql Logo" width="75" style="margin-right: 30px;">
  <img src="./img/mssql.png" alt="Msssql Logo" width="90" style="margin-right: 30px;">
- <img src="./img/vscode.png" alt="Vscode Logo" width="60" style="margin-right: 30px;">
+ <img src="./img/vscode.png" alt="Vscode Logo" width="60" style="margin-right: 30px;"> 
+ <br>
  <img src="./img/vs.png" alt="Vs Logo" width="90" style="margin-right: 30px;">
  <img src="./img/eclipse.png" alt="Eclipse Logo" width="75" style="margin-right: 30px;">
  <img src="./img/postman.png" alt="Postman Logo" width="75" style="margin-right: 30px;">
