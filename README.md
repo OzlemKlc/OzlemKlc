@@ -11,7 +11,7 @@
 
 
 ## **Languages and Tools:**
-<p align="center">
+<p align="">
  <img src="./img/html.png" alt="HTML Logo" width="100" style="margin-right: 20px;">
  <img src="./img/css.png" alt="CSS Logo" width="100" style="margin-right: 20px;">
  <img src="./img/js.png" alt="Js Logo" width="100" style="margin-right: 20px;">
