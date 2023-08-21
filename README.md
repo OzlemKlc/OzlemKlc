@@ -8,6 +8,7 @@
        Thanks to my passion for learning, I am becoming more specialized in various areas every day.                    
 - 🎨 Additional Info Whenever I have the opportunity, I also create visual designs in addition to software development.
 
+Languages and Tools:
 
 
 
