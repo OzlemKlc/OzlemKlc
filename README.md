@@ -12,7 +12,7 @@
 
 ## **Languages and Tools:**
 <p align="">
- <img src="./img/html.png" alt="HTML Logo" width="90" style="margin-right: 30px;">
+ <img src="./img/html.png" alt="HTML Logo" width="90" style="margin-right: 28px;">
  <img src="./img/css.png" alt="CSS Logo" width="80" style="margin-right: 30px;">
  <img src="./img/js.png" alt="Js Logo" width="69" style="margin-right: 30px;">
  <img src="./img/c.svg" alt="C Logo" width="75" style="margin-right: 30px;">
