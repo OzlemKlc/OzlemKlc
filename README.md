@@ -18,7 +18,7 @@
  <img src="./img/c.svg" alt="C Logo" width="75" style="margin-right: 28px;">
  <img src="./img/c#.png" alt="C# Logo" width="75" style="margin-right: 28px;">
  <img src="./img/python.png" alt="Python Logo" width="75" style="margin-right: 28px;">
- <img src="./img/java.png" alt="Java Logo" width="120" style="margin-right: 28px;">
+ <img src="./img/java.png" alt="Java Logo" width="140" style="margin-right: 28px;">
  <img src="./img/mysql.png" alt="Mysql Logo" width="120" style="margin-right: 28px;">
  <img src="./img/postgresql.png" alt="Postgresql Logo" width="75" style="margin-right: 28px;">
  <img src="./img/mssql.png" alt="Msssql Logo" width="75" style="margin-right: 28px;">
