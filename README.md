@@ -25,7 +25,7 @@
  <img src="./img/mssql.png" alt="Msssql Logo" width="90" style="margin-right: 30px;">
  <img src="./img/vscode.png" alt="Vscode Logo" width="60" style="margin-right: 30px;"> 
 
- <img src="./img/vs.png" alt="Vs Logo" width="90" style="margin-right: 30px;">
+ <img src="./img/vs.png" alt="Vs Logo" width="95" style="margin-right: 30px;">
  <img src="./img/eclipse1.png" alt="Eclipse Logo" width="60" style="margin-right: 30px;">
  <img src="./img/postman1.png" alt="Postman Logo" width="100" style="margin-right: 30px;">
  <img src="./img/jupyter.png" alt="Jupyter Logo" width="60" style="margin-right: 30px;">
